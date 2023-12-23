@@ -5,7 +5,7 @@ Although this is a resource specifically for compiling for sm64ex-coop, it shoul
 
 ## Initial Compilation
 
- 1. Download and Extract `lua-compiler.zip` into any folder.
+ 1. Download and Extract [`lua-compiler.zip`](https://github.com/Squishy6094/sm64ex-coop-lua-compilation/raw/main/lua-compiler.zip) into any folder.
  2. Drag and Drop your Lua file of choice onto `luac.exe`
  3. In the directory you dragged the Lua file from, you should see `luac.out`. Rename `luac.out` to `[file-name]-64.lua`
 
